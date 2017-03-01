@@ -1,0 +1,10 @@
+Source: snmp-system-mibs
+Maintainer: balintkartyas <balint.kartyas@balabit.com>
+Priority: extra
+Section: net
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.0
+
+Package: snmp-system-mibs
+Architecture: all
+Description: This package contains snmp-mibs-downloader's MIB files.
